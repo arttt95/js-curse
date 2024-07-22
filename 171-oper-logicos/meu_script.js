@@ -21,6 +21,7 @@ document.write('<br/>')
 document.write('<br/>')
 
 //true || true || false = false
+//operador '||' representa 'ou'
 if (4 == 2 || 3 >= 5 || 'a' == 'b') {
     document.write('Verdadeiro')
 } else {
