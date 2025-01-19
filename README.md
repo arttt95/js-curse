@@ -1,1 +1,1 @@
-#Js-curse
+#Js-course
